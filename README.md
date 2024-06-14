@@ -10,6 +10,7 @@ Moody_Foody/
 ├── .env
 ├── .gitignore
 └── README.md
+└── LICENSE
 ```
 
 ## Installation
